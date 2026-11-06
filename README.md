@@ -13,9 +13,17 @@
 >
 > 🔗 **在线交互式比价与完整排版指南**：**[https://tg-premium.lovable.app](https://tg-premium.lovable.app)**
 
+## 视频讲解
+
+[![Telegram Premium 电报会员有啥用、怎么开通最便宜 —— 视频讲解封面](https://i.ytimg.com/vi/yf27IMsAg4g/maxresdefault.jpg)](https://www.youtube.com/watch?v=yf27IMsAg4g)
+
+<sub>▶ 点击封面跳转 YouTube 观看（约 45 秒）· 视频来源：<a href="https://www.youtube.com/watch?v=yf27IMsAg4g">新手攻略：电报会员有啥用？怎么开通才最便宜？</a></sub>
+
 ---
 
 ## 目录 (Table of Contents)
+
+- [视频讲解](#视频讲解)
 
 - [一、 四大充值渠道价格与门槛全景对比](#一-四大充值渠道价格与门槛全景对比)
   - [方案 A：Fragment 官方链上礼品直充（推荐 · 极客底价）](#方案-afragment-官方链上礼品直充推荐--极客底价)
