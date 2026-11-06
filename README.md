@@ -4,6 +4,10 @@
 [![Price Comparison](https://img.shields.io/badge/实时比价-shuita.xyz-10b981?style=flat-square)](https://shuita.xyz/sku/tg_premium)
 [![Fragment Official](https://img.shields.io/badge/Fragment官方直充-$28.99%2F年-2563eb?style=flat-square)](https://fragment.com/premium/gift)
 
+<p align="center">
+  ⭐ <b>这份比价帮你省下了钱？点个 Star 支持一下</b> —— 各渠道价格随汇率与店铺库存波动，收藏后可随时回来查看最新对比。
+</p>
+
 > **拒绝 30% 苹果税溢价。** 本仓库整理 Telegram Premium（电报大会员 / 飞机会员）的核心权益解析，以及 **Fragment 链上直充**、**国内卡网人民币代充（支付宝/微信）**、**iOS App Store 跨区低价内购（智利/印尼/菲律宾）** 四大充值渠道的横向比价与防坑操作指南。
 >
 > 🔗 **在线交互式比价与完整排版指南**：**[https://tg-premium.lovable.app](https://tg-premium.lovable.app)**
@@ -125,3 +129,8 @@ Fragment 是 Telegram 官方旗下的区块链拍卖与数字权益平台，通�
 - 🌐 **Telegram Premium 落地页指南与渠道对比**：[https://tg-premium.lovable.app](https://tg-premium.lovable.app)
 - 🛒 **国内卡网实时最低价聚合（支持支付宝/微信）**：[https://shuita.xyz/sku/tg_premium](https://shuita.xyz/sku/tg_premium)
 - 💎 **Telegram 官方 Fragment 链上直充平台**：[https://fragment.com/premium/gift](https://fragment.com/premium/gift)
+
+---
+
+<sub>本文档以 <a href="LICENSE">CC BY-NC 4.0</a>（署名—非商业性使用 4.0 国际）协议发布：欢迎转载与摘编，请保留署名并附上本仓库链接，不得用于商业用途。</sub>
+
