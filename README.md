@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/badge/在线指南-tg--premium.lovable.app-0088cc?style=flat-square&logo=telegram)](https://tg-premium.lovable.app)
 [![Price Comparison](https://img.shields.io/badge/实时比价-shuita.xyz-10b981?style=flat-square)](https://shuita.xyz/sku/tg_premium)
 [![Fragment Official](https://img.shields.io/badge/Fragment官方直充-$28.99%2F年-2563eb?style=flat-square)](https://fragment.com/premium/gift)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=flat-square&logo=creativecommons&logoColor=white)](LICENSE)
 
 <p align="center">
   ⭐ <b>这份比价帮你省下了钱？点个 Star 支持一下</b> —— 各渠道价格随汇率与店铺库存波动，收藏后可随时回来查看最新对比。
