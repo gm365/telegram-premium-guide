@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/在线指南-tg--premium.lovable.app-0088cc?style=flat-square&logo=telegram)](https://tg-premium.lovable.app)
 [![Price Comparison](https://img.shields.io/badge/实时比价-shuita.xyz-10b981?style=flat-square)](https://shuita.xyz/sku/tg_premium)
 [![Fragment Official](https://img.shields.io/badge/Fragment官方直充-$28.99%2F年-2563eb?style=flat-square)](https://fragment.com/premium/gift)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=flat-square&logo=creativecommons&logoColor=white)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=flat-square&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
 
 <p align="center">
   ⭐ <b>这份比价帮你省下了钱？点个 Star 支持一下</b> —— 各渠道价格随汇率与店铺库存波动，收藏后可随时回来查看最新对比。
@@ -133,5 +133,5 @@ Fragment 是 Telegram 官方旗下的区块链拍卖与数字权益平台，通�
 
 ---
 
-<sub>本文档以 <a href="LICENSE">CC BY-NC 4.0</a>（署名—非商业性使用 4.0 国际）协议发布：欢迎转载与摘编，请保留署名并附上本仓库链接，不得用于商业用途。</sub>
+<sub>本文档以 <a href="LICENSE">CC BY 4.0</a>（署名 4.0 国际）协议发布：欢迎转载、摘编与任何形式的再使用（含商业用途），只需保留署名并注明来源链接 <a href="https://github.com/gm365/telegram-premium-guide">github.com/gm365/telegram-premium-guide</a>。</sub>
 
